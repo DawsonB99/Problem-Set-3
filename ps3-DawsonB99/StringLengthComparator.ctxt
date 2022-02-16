@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StringLengthComparator
+comment0.text=\r\n\ \ \ A\ Comparator\ that\ orders\ String\ values\ by\ length.\r\n\r\n\ \ \ @author\ Jim\ Teresco\r\n\ \ \ @version\ Spring\ 2020\r\n
+comment1.params=a\ b
+comment1.target=int\ compare(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ \ \ \ \ \ \ Compare\ two\ String\ values\ by\ length.\ \ Returns\ a\ negative\ value\r\n\ \ \ \ \ \ \ if\ the\ first\ is\ shorter\ than\ the\ second,\ 0\ if\ they\ are\ the\ same\r\n\ \ \ \ \ \ \ lengths,\ and\ a\ positive\ value\ if\ the\ first\ is\ longer\ than\ the\r\n\ \ \ \ \ \ \ second.\r\n\r\n\ \ \ \ \ \ \ @param\ a\ the\ first\ String\r\n\ \ \ \ \ \ \ @param\ b\ the\ second\ String\r\n\r\n\ \ \ \ \ \ \ @return\ a\ negative\ value\ if\ a\ is\ shorter\ than\ b,\ 0\ if\ they\ are\r\n\ \ \ \ \ \ \ the\ same\ lengths,\ and\ a\ positive\ value\ if\ a\ is\ longer\ than\ b\r\n
+numComments=2

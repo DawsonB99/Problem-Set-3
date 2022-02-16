@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SyracuseSearch
+comment0.text=\r\n\ Takes\ in\ a\ value\ and\ generates\ a\ SyracuseSearch\ of\ all\ the\ values\ leading\ up\ to\ that\ value,\r\n\ then\ prints\ out\ the\ Largest\ Sequence,\ the\ value\ that\ generated\ that\ sequence,\ the\ largest\r\n\ value\ found\ in\ any\ sequence,\ the\ value\ that\ generated\ it,\ and\ that\ value's\ position\ in\ the\ sequence.\r\n\r\n\ @author\ Dawson\ Bridger\ Michael\ Scanlon\r\n\ @version\ Spring\ 2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ \ \ Main\ method\ to\ use\ Syracuse\ Search.\r\n\r\n\ \ \ \ @param\ args[0]\ starting\ number\r\n
+numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SyracuseGenerator
+comment0.text=\r\n\ An\ iterator\ that\ creates\ a\ sequence\ of\ numbers\ that\ eventually\ lead\r\n\ to\ 1.\r\n\r\n\ @author\ Michael\ Scanlon\ Dawson\ Bridger\r\n\ @version\ Spring\ 2020\r\n
+comment1.params=n
+comment1.target=SyracuseGenerator(long)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SyracuseGenerator\r\n
+comment2.params=
+comment2.target=boolean\ hasNext()
+comment2.text=\r\n\ Return\ whether\ the\ number\ has\ reached\ 1.\r\n\r\n\ \ \ \ \ \ \ @return\ whether\ the\ number\ has\ reached\ 1.\r\n
+comment3.params=
+comment3.target=java.lang.Long\ next()
+comment3.text=\r\n\ Return\ the\ next\ number\ in\ the\ sequence.\r\n\r\n\ \ \ \ \ \ \ @return\ the\ next\ number\ in\ the\ sequence.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ \ \ \ \ \ \ main\ method\ to\ test\ the\ SyracuseGenerator.\r\n\r\n\ \ \ \ \ \ \ @param\ args[0]\ starting\ number\r\n
+numComments=5

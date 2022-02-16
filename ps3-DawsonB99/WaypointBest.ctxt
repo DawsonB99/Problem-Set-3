@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WaypointBest
+comment0.text=\r\nReplace\ this\ comment\ with\ something\ meaningful,\ and\ add\ your\ name\r\nto\ the\ author\ tag.\r\n\r\n@author\ Jim\ Teresco,\ Dawson\ Bridger\ and\ Mike\ Scanlon\r\n
+comment1.params=
+comment1.target=void\ usage()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ \ \ \ Load\ the\ waypoints\ from\ a\ .tmg\ file\ and\ report\ the\ waypoint\ extremes\r\n\ \ \ \ using\ BestOf\ structures.\r\n\r\n\ \ \ \ @param\ args[0]\ the\ TMG\ filename\r\n\ \ \ \ @param\ args[1]\ the\ number\ of\ "best\ of"\ entries\ to\ track\ in\ each\ category\r\n
+numComments=3

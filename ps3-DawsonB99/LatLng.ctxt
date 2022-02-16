@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=LatLng
+comment0.text=\ \ \ \ \r\n\ Small\ data\ structure\ representing\ a\r\n\ latitude-longitude\ pair.\ \ It\ has\ the\ added\ benefit\r\n\ of\ being\ able\ to\ compute\ its\ distance\ to\ another\r\n\ LatLng\ object.\r\n\r\n\ @author\ Jim\ Teresco\r\n\ @version\ Fall\ 2019\r\n
+comment1.params=lat\ lng
+comment1.target=LatLng(double,\ double)
+comment1.text=\r\n\ Construct\ a\ new\ LatLng\ with\ the\ given\ coordinates.\r\n\r\n\ @param\ lat\ The\ latitude.\r\n\ @param\ lng\ The\ longitude.\r\n
+comment2.params=
+comment2.target=double\ getLat()
+comment2.text=\r\n\ Get\ the\ latitude\ of\ this\ LatLng.\r\n\ \r\n\ @return\ The\ latitude.\r\n
+comment3.params=
+comment3.target=double\ getLng()
+comment3.text=\r\n\ Get\ the\ longitude\ of\ this\ LatLng.\r\n\ \r\n\ @return\ The\ longitude.\r\n
+comment4.params=other
+comment4.target=double\ distanceTo(LatLng)
+comment4.text=\r\n\ Compute\ the\ distance\ in\ miles\ from\ this\ LatLng\ to\ another.\r\n\r\n\ @param\ other\ Another\ LatLng.\r\n\ @return\ The\ distance\ in\ miles\ from\ this\ LatLng\ to\ other.\r\n
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\r\n\ Compare\ another\ LatLng\ with\ this\ for\ equality,\ subject\ to\ the\r\n\ specified\ tolerance.\r\n\r\n\ @param\ o\ The\ other\ LatLng.\r\n\ @return\ Whether\ the\ two\ lat/lng\ pairs\ should\ be\ considered\ equal.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Return\ The\ latitude\ and\ longitude\ in\ a\ nicely-formatted\ pair.\r\n\r\n\ @return\ The\ latitude\ and\ longitude\ in\ a\ nicely-formatted\ pair.\r\n
+numComments=7
